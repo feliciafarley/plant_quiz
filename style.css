@@ -1,0 +1,34 @@
+h1 {
+	font-family: Arial;
+	color: #AE2169;
+}
+
+p {
+	font-family: Arial;
+	color: #AE2169;
+}
+
+body {
+  background: #49803F;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ul {
+	font-family: Arial;
+	color: #AE2169;
+}
+
+ol {
+	font-family: Arial;
+	color: #AE2169;
+}
+
+label {
+	font-family: Arial;
+	color: #dbe61c;
+}
+
+#header img {
+	width: 100%
+}
